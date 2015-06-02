@@ -1,6 +1,6 @@
 # Wojciech's drumming repo
 
-My repository related to drumsmy snare drum and drumset interests
+My repository related to my snare drum and drumset interests
 
 beats/
 
