@@ -1,5 +1,7 @@
 # Wojciech's drumming repo
 
+[![Build Status](https://travis-ci.org/wkoszek/drums.svg)](https://travis-ci.org/wkoszek/drums)
+
 My repository related to my snare drum and drumset interests
 
 beats/
