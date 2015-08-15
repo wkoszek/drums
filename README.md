@@ -4,11 +4,11 @@
 
 My repository related to my snare drum and drumset interests
 
-beats/
+# Beats
 
 My experiment for connecting Verilog to automated paradiddle generation.
 
-rudiments/
+# Rudiments
 
 Inspired by "Stick Control" I made a snare-drum bar generator.
 
