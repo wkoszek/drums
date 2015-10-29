@@ -12,3 +12,8 @@ My experiment for connecting Verilog to automated paradiddle generation.
 
 Inspired by "Stick Control" I made a snare-drum bar generator.
 
+
+# Author
+
+- Wojciech Adam Koszek, [wojciech@koszek.com](mailto:wojciech@koszek.com)
+- [http://www.koszek.com](http://www.koszek.com)
